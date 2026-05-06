@@ -1,2 +1,30 @@
-# 500a5032-job-search-crm-and-interview-t
-Job Search CRM and Interview Tracker Notion — a professional-grade notion template for career development professionals. Built for production use with comprehensive documentation, instant setup, and regular updates included. Save hours of development time with this ready-to-deploy solution. Includes setup guide, configuration templates, and best pr
+# Job Search CRM and Interview Tracker Notion
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w28rbHhe2Mg88avOcZb2m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w28rbHhe2Mg88avOcZb2m)
+- [Buy on Whop](https://whop.com/job-search-crm-and-interview-tracker-notion)
+
